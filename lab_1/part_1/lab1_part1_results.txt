@@ -1,0 +1,41 @@
+N is 1000, the running time is:
+
+Time spent for order (m, j, k) is 4.866718 seconds 
+------------------------------------------------
+Time spent for order (j, m, k) is 4.277955 seconds 
+------------------------------------------------
+Time spent for order (m, k, j) is 3.332042 seconds 
+------------------------------------------------
+Time spent for order (j, k, m) is 7.417254 seconds 
+------------------------------------------------
+Time spent for order (k, m, j) is 3.472387 seconds 
+------------------------------------------------
+Time spent for order (k, j, m) is 7.245092 seconds 
+
+N is 2000, the running time is:
+
+Time spent for order (m, j, k) is 63.641975 seconds 
+------------------------------------------------
+Time spent for order (j, m, k) is 50.594655 seconds 
+------------------------------------------------
+Time spent for order (m, k, j) is 26.381583 seconds 
+------------------------------------------------
+Time spent for order (j, k, m) is 76.018497 seconds 
+------------------------------------------------
+Time spent for order (k, m, j) is 26.718034 seconds 
+------------------------------------------------
+Time spent for order (k, j, m) is 76.419062 seconds 
+
+N is 5000, the running time is:
+
+Time spent for order (m, j, k) is 1113.917325 seconds 
+------------------------------------------------
+Time spent for order (j, m, k) is 902.709071 seconds 
+------------------------------------------------
+Time spent for order (m, k, j) is 415.012441 seconds
+------------------------------------------------
+Time spent for order (j, k, m) is 1347.945309 seconds
+------------------------------------------------
+Time spent for order (k, m, j) is 415.224646 seconds
+------------------------------------------------
+Time spent for order (k, j, m) is 1356.065067 seconds

@@ -1,0 +1,12 @@
+Time spent for the BubbleSort for N=5000 is 0.049672 seconds 
+
+---------------------------------------------------------------------------------
+Time spent to sort first half with BubbleSort for N=2500 is 0.010951 seconds 
+
+------------------------------------------------
+Time spent to sort second half with BubbleSort for N=2500 is 0.010769 seconds 
+
+------------------------------------------------
+Time spent to merge two halfs is 0.000035 seconds 
+
+------------------------------------------------

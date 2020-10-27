@@ -1,0 +1,12 @@
+- "Assignment Lab 1.pdf" contains report of performances and explanations for first and second part of Lab 1 assignement
+- Source codes for question 1 is in the following files (folder: part_1):
+    - lab1_first.c: contains program that multiply two 3x3 matrix
+    - lab1_part1.sh: is bash script for generating six programs that will multiply the same 3x3 matrix in six different order
+    - lab1_n_1000.c, lab1_n_2000.c, lab1_n_5000.c: calculate the running times of six different loop orders for different N
+    - results of running times of N=1000, 2000, 5000 are presented in "lab1_part1_results.txt"
+    - "Lab1-part1 plot results.ipynb" contains plot results
+
+- Source codes for question 2 is in the following files (folder: part_2):
+    - lab1_second_part.c: - contains code for BubbleSort program when N=5000; 
+                          - It contains also BubbleSort program for two N/2 integers and merge-sort of them
+                          - It saves both of these output to separate files ("sorting_result_n_5000.txt" and "sorting_result_n_2500_merge_sort.txt")
