@@ -97,7 +97,7 @@ int main() {
     clock_t end = clock();
     double time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
 
-    char file_name[100] = "part_2/sorting_result_n_5000.txt";
+    char file_name[100] = "part_2/results/sorting_result_n_5000.txt";
 
     printArrayInFile(array, file_name);
     printf("------------------------------------------------\n");
@@ -134,7 +134,7 @@ int main() {
     printf("------------------------------------------------\n");
     printf("Total time spent to sort two halfs and merge them is %f seconds \n\n", total_time);
 
-    char file_name_merge[100] = "part_2/sorting_result_n_2500_merge_sort.txt";
+    char file_name_merge[100] = "part_2/results/sorting_result_n_2500_merge_sort.txt";
     printArrayInFile(array3, file_name_merge);
 
     return 0;
